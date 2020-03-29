@@ -10,3 +10,4 @@
 .DS_Store
 .rspec_status
 .ruby-gemset
+Gemfile.lock
